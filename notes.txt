@@ -1,0 +1,4 @@
+ <h2 style="position: absolute; top: -8px; left: 25px; color: white;">Basic Surfing</h2>
+                      <p style="position: absolute; top: 35px; left: 65px; color: white;">300 PHP</p>
+
+                      <table class="lessons" width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
