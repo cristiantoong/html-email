@@ -2,3 +2,29 @@
                       <p style="position: absolute; top: 35px; left: 65px; color: white;">300 PHP</p>
 
                       <table class="lessons" width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+
+https://i.postimg.cc/rpP2QJ1Y/band.jpg
+https://i.postimg.cc/cJHNRjnn/brandon-bynum-704254-unsplash.jpg
+https://i.postimg.cc/76J8c2XP/header.jpg
+https://i.postimg.cc/8CtzDMhh/logo.png
+https://i.postimg.cc/XqMS0YDf/logo-white.jpg
+https://i.postimg.cc/Dfs3P18B/sb1.jpg
+https://i.postimg.cc/MKmkhx0B/sb2.jpg
+https://i.postimg.cc/kXm31DS9/sb3.jpg
+https://i.postimg.cc/cL1qWjTb/sb4.jpg
+https://i.postimg.cc/fR8GRKrT/sb5.jpg
+https://i.postimg.cc/KYVCnYb6/sb6.jpg
+https://i.postimg.cc/RFHyGzVN/surf1.jpg
+https://i.postimg.cc/gc31ZdT7/surf2.jpg
+https://i.postimg.cc/ZnzgMDCj/surf3.jpg
+https://i.postimg.cc/T1jSMqbx/surf4.jpg
+https://i.postimg.cc/QxswgwLd/surf5.jpg
+
+https://i.postimg.cc/P54N2BFf/event.png
+https://i.postimg.cc/029scbgm/header.png
+
+https://i.postimg.cc/DzwP2VWm/facebook.png
+https://i.postimg.cc/cLZcbt0R/instagram.png
+https://i.postimg.cc/MpDY2Zph/pinterest.png
